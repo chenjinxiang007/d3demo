@@ -1,0 +1,106 @@
+{
+    "downward": {
+        "direction": "downward",
+        "name": "origin",
+        "children": [
+            {
+                "name": "厦门建发股份有限公司",
+                "hasHumanholding":true,
+                "hasChildren":true,
+                "children": [
+                    {
+                        "name": "厦门建发通讯有限公司",
+                        "hasHumanholding":false,
+                        "hasChildren":true,
+                        "children": []
+                    },
+                    {
+                        "name": "厦门建发通讯有限公司",
+                        "hasHumanholding":false,
+                        "hasChildren":true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "厦门建发股份有限公司厦门建发股份有限公司",
+                "hasHumanholding":false,
+                "hasChildren":true,
+                "children": [
+                    {
+                        "name": "厦门建发通讯有限公司",
+                        "hasHumanholding":false,
+                        "hasChildren":true,
+                        "children": []
+                    },
+                    {
+                        "name": "厦门建发通讯有限公司",
+                        "hasHumanholding":false,
+                        "hasChildren":true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "厦门建发股份有限公司",
+                "hasHumanholding":false,
+                "hasChildren":true,
+                "children": [
+                    {
+                        "name": "厦门建发通讯有限公司",
+                        "hasHumanholding":false,
+                        "children": []
+                    },
+                    {
+                        "name": "厦门建发通讯有限公司",
+                        "hasHumanholding":false,
+                        "children": []
+                    },
+                    {
+                        "name": "厦门建发通讯有限公司",
+                        "hasHumanholding":false,
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "upward": {
+        "direction": "upward",
+        "name": "origin",
+        "children": [
+            {
+                "name": "厦门建发股份有限公司",
+                "hasHumanholding":false,
+                "children": [
+                    {
+                        "name": "厦门建发通讯有限公司厦门建发通讯有限公司",
+                        "hasHumanholding":false,
+                        "children": []
+                    },
+                    {
+                        "name": "厦门建发通讯有限公司",
+                        "hasHumanholding":false,
+                        "children": [
+                            {
+                                "name": "厦门建发通讯有限公司",
+                                "hasHumanholding":false,
+                                "children": []
+                            },
+                            {
+                                "name": "厦门建发通讯有限公司",
+                                "hasHumanholding":false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "厦门建发通讯有限公司",
+                        "hasHumanholding":false,
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+}
